@@ -3,6 +3,7 @@
 ## Overview
 
 A RAG implementing the HyDE (Hypothetical Document Embeddings) technique. Instead of directly using user queries for retrieval, the system generates hypothetical documents that better match the semantic space of the knowledge base.
+<img width="1833" height="572" alt="image" src="https://github.com/user-attachments/assets/47dc949f-e733-43c5-b98a-56b5a30dae8c" />
 
 ## Architecture
 
